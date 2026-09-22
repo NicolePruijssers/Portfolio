@@ -1,0 +1,8 @@
+This repositery is where I keep my favorite project to share. I'll put a small description of every project below
+
+diabetes risk predictor
+This is an ongoing project based on a synthetic kaggle dataset containing patient data. 
+The aim is to find out what traits have the most impact on the risk of developing diabetes
+
+genetic simulator
+This programme is meant to mimick the spread of genetic traits over several generations
