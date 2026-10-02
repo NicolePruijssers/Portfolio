@@ -6,3 +6,6 @@ The aim is to find out what traits have the most impact on the risk of developin
 
 genetic simulator
 This programme is meant to mimick the spread of genetic traits over several generations
+
+Game SQl 
+A script that handles the data stream behind a videogame, restructuring it from the simple event entries to a functional storage
