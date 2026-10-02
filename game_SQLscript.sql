@@ -1,3 +1,6 @@
+/*This SQL script is an ongoing project to mimick the data streams behind a theoreticl videogame*/
+
+
 /* generating table to resemble theoretical input from game*/
 create table if not exists game_entry
 (id varchar(256) primary key,
